@@ -2,7 +2,7 @@
 
 This project was a brief study in order to learn the basics of [Svelte](https://svelte.dev) following the tutorial of [Building A Svelte 3 Todo App From Start To Deployment](https://medium.com/codingthesmartway-com-blog/building-a-svelte-3-todo-app-from-start-to-deployment-1737f72c23a6).
 
-The application is currently hosted at [some place](http://lol.com)
+The [Svelte-Todo-App](http://svelte-todo-lechip.surge.sh/) is currently hosted at [Surge](https://svelte-todo-lechip.surge.sh/)
 
 ## Original template
 
